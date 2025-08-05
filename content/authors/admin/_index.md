@@ -52,10 +52,4 @@ highlight_name: true
 website: ""
 ---
 
-Victoire Spoerry founded Le Monde selon Victoire in 2013, a boutique travel advisor for fashion icons and business leaders. Le Monde selon Victoire became notorious for its unparalleled network among luxury hotels, making miracles for clients expecting ultimate attention to details.
-
-Behind the scenes, her personal journey was marked by brutal health challenges. Her life was miraculously saved - a rebirth to tune in to serenity, to trust ancestral medicine, and to share insights and wisdom. As a give back, Victoire founded an intimate holistic retreat in Perigord, France, where guests from all over the world came to find healing peace, as well as occasionally, the meaning of (their) life.
-
-Naturally, in addition to luxury hotels and private jets, clients from Le Monde selon Victoire started asking for the right health or wellness clinic for their needs. With passion, Victoire began to guide longevity seekers towards life-changing retreats. This knowledge is at the core of Serenity Ways: a platform where she shares her experience with all the best clinics and wellness hotels in the world. 
-
-As a luxury travel advisor, Victoire also loves to make sure the travel experience of her clients is always perfect. Clients who book their stay with Victoire get VIP welcome and amenities: room upgrade, early check-in, spa credit ... 
+ 
