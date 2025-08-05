@@ -23,8 +23,6 @@ tagline: Discover, compare and book your program at the world's most advanced lo
 organizations:
   - name: Serenity Ways
     url: https://www.serenityways.com/
-  - name: Le Monde selon Victoire
-    url: https://www.lemondeselonvictoire.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include healthy lifestyle (plant-based, gluten-free), advanced longevity techniques and traditional medicines.

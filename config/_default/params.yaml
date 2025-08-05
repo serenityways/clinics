@@ -6,16 +6,16 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: kaki
 
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Business
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'A curated guide of the best medical wellness clinics in the world.'
+    twitter: 'serenity__ways'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
