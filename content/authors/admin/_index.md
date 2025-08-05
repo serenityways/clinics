@@ -3,7 +3,7 @@
 title: Victoire Spoerry
 
 # Name pronunciation (optional)
-name_pronunciation: Victoire Spoerry
+# name_pronunciation: Victoire Spoerry
 
 # Full name (for SEO)
 first_name: Victoire
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Luxury medical wellness travel advisor
+tagline: Discover, compare and book your program at the world's most advanced longevity clinics and wellness retreats.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -52,4 +52,14 @@ highlight_name: true
 website: ""
 ---
 
- 
+ Health and wellness have become the ultimate luxury. A few destinations stand apart: places where you are taken care of by **world-leading medical doctors**. These clinics offer personalised programs, with evidence-based protocols based on decades of practice in the domain of longevity and performance. 
+
+**Who we are?** We are luxury travel advisors specialised in health, wellness and longevity. We test, review and compare the most advanced medical clinics, so that you can easily choose the ideal destination for your objectives. When you book your retreat with us, you get the most informed advice, as well as a VIP welcome in each clinic (room upgrade, early check-in, spa credit ...)
+
+Welcome to your **guide to the world's best longevity clinics**.
+
+## The best luxury clinics
+
+Each clinic in our curated collection represents the pinnacle of preventive medicine and rejuvenative care. What sets these exclusive destinations apart isn't just their technologies or the luxurious hospitality experience: it's the caliber of their medical doctors. 
+
+Here, your practitioners are world-leading experts in their field (gut health, preventative medicine, neurology, dentistry ...) and they bring their specialties together to decode your body's unique needs. 
