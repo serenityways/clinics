@@ -1,9 +1,8 @@
 ---
 title: The best clinics in Switzerland
-date: 2025-08-05
-hide_date: true
-reading_time: false
 ---
+
+Our curated selection:
 
 **Clinique La Prairie** | *Montreux, Switzerland*  
 The undisputed pioneer of cellular therapy since 1931.
