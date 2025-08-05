@@ -5,9 +5,15 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: Switzerland
+    url: switzerland/
+    weight: 20
+  - name: Italy
+    url: italy/
+    weight: 30
   - name: Topics
     url: tags/
-    weight: 20
+    weight: 80
   - name: Uses
     url: uses/
-    weight: 30
+    weight: 90

@@ -1,12 +1,12 @@
 ---
-title: How Victoire became one of the best travel advisors for luxury health and wellness
+title: How Victoire became one of the best travel advisors for health and wellness
 summary: After overcoming brutal health challenges, Victoire turned her obsession for luxury hotels into a unique expertise in the universe of high-end clinics and longevity programs
 date: 2025-08-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [Le Monde selon Victoire](https://lemondeselonvictoire.com)'
 
 authors:
   - admin
