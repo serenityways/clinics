@@ -61,3 +61,11 @@ Welcome to your **guide to the world's best longevity clinics**.
 Each clinic in our curated collection represents the pinnacle of preventive medicine and rejuvenative care. What sets these exclusive destinations apart isn't just their technologies or the luxurious hospitality experience: it's the caliber of their medical doctors. 
 
 Here, your practitioners are world-leading experts in their field (gut health, preventative medicine, neurology, dentistry ...) and they bring their specialties together to decode your body's unique needs. 
+
+## Find Your Perfect Match
+
+**Ready to begin?** Whether you seek cellular regeneration, metabolic reset, stress recovery, or comprehensive health optimization, each clinic offers a distinct approach. Our detailed guides on each clinic will help you find the destination and program which best matches your objectives.
+
+**Need personal guidance?** Our experts Victoire and Christophe have inspected the best medical wellness clinics and are available to answer your questions. [Contact us on WhatsApp](https://wa.me/33786553455).
+
+*Invest in your health. Your extraordinary life awaits.*
